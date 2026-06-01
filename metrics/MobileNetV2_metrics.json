@@ -1,0 +1,17 @@
+{
+  "model_name": "MobileNetV2",
+  "test_loss": 0.7233,
+  "test_acc": 0.8285,
+  "val_loss": 0.1511,
+  "val_acc": 0.9808,
+  "precision": 0.7859,
+  "recall": 0.9974,
+  "specificity": 0.547,
+  "sensitivity": 0.9974,
+  "f1_score": 0.8791,
+  "auc_roc": 0.9759,
+  "TP": 389,
+  "TN": 128,
+  "FP": 106,
+  "FN": 1
+}

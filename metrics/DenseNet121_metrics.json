@@ -1,0 +1,17 @@
+{
+  "model_name": "DenseNet121",
+  "test_loss": 0.5975,
+  "test_acc": 0.8686,
+  "val_loss": 0.1276,
+  "val_acc": 0.9783,
+  "precision": 0.8291,
+  "recall": 0.9949,
+  "specificity": 0.6581,
+  "sensitivity": 0.9949,
+  "f1_score": 0.9044,
+  "auc_roc": 0.973,
+  "TP": 388,
+  "TN": 154,
+  "FP": 80,
+  "FN": 2
+}

@@ -1,0 +1,17 @@
+{
+  "model_name": "InceptionV3",
+  "test_loss": 0.6725,
+  "test_acc": 0.7997,
+  "val_loss": 0.273,
+  "val_acc": 0.9373,
+  "precision": 0.7743,
+  "recall": 0.959,
+  "specificity": 0.5342,
+  "sensitivity": 0.959,
+  "f1_score": 0.8568,
+  "auc_roc": 0.9285,
+  "TP": 374,
+  "TN": 125,
+  "FP": 109,
+  "FN": 16
+}
